@@ -1,0 +1,8 @@
+{
+  "name": "Reciclaje",
+  "app_id": "7851fd35",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
